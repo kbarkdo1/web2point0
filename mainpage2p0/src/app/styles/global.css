@@ -1,0 +1,10 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+
+.App * {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }

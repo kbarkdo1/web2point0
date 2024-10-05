@@ -1,0 +1,33 @@
+
+.profile {
+    margin:auto;
+    justify-content: center;
+    width:80%;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.profilePhoto {
+    margin: auto;
+    padding: 10px;
+    justify-content: center;
+}
+
+.biotext {
+    margin: auto;
+    width: 80%;
+    max-width: 500px;
+    min-width: 350px;
+    max-height: 350px;
+    padding: 10px;
+    text-align: center;
+    font-family: Lucida Sans,Lucida Sans Regular,Lucida Grande,Lucida Sans Unicode,Geneva,Verdana,sans-serif;
+    font-size: 18px;
+}
+
+
+.other {
+    margin-top: 10px;
+    margin-left:50%;
+    margin-right:10px;
+}

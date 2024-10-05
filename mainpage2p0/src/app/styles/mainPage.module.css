@@ -1,0 +1,11 @@
+.info {
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: center;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.background {
+    background-color: brown;
+}
